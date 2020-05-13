@@ -1,4 +1,16 @@
-﻿using System;
+﻿/****************************************************************************
+** SAKARYA ÜNİVERSİTESİ
+** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
+** BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ BÖLÜMÜ
+** NESNEYE DAYALI PROGRAMLAMA DERSİ
+** 2019-2020 BAHAR DÖNEMİ
+**
+** PROJE NUMARASI.........: 02
+** ÖĞRENCİ ADI............: Ahmet Demir     
+** ÖĞRENCİ NUMARASI.......: B191200023
+** DERSİN ALINDIĞI GRUP...: A
+****************************************************************************/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
