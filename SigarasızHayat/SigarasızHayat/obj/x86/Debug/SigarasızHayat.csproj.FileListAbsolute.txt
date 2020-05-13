@@ -1,0 +1,12 @@
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\bin\x86\Debug\SigarasızHayat.exe.config
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\bin\x86\Debug\SigarasızHayat.exe
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\bin\x86\Debug\SigarasızHayat.pdb
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.Form1.resources
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.Form2.resources
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.Form3.resources
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.exe
+C:\Users\Ahmet\source\repos\SigarasızHayat\SigarasızHayat\obj\x86\Debug\SigarasızHayat.pdb
